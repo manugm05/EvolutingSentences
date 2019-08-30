@@ -6,4 +6,4 @@ Es la primera vez que hago esto, así que, si encuentras algún error o recomend
 
 TW: @mg0097
 
-![alt text](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![Attribution-NonCommercial-ShareAlike 4.0 International](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
