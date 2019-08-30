@@ -4,3 +4,5 @@ frases inicializadas con letras aleatorias a una frase/conjunto de letras introd
 
 Es la primera vez que hago esto, así que, si encuentras algún error o recomendación no dudes en comunicarla.
 
+TW: @mg0097
+
