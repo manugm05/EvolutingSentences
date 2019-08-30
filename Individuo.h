@@ -4,12 +4,7 @@
  * and open the template in the editor.
  */
 
-/* 
- * File:   Individuo.h
- * Author: Manuel
- *
- * Created on 29 de agosto de 2019, 19:43
- */
+
 
 #ifndef INDIVIDUO_H
 #define INDIVIDUO_H
