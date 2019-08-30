@@ -4,12 +4,7 @@
  * and open the template in the editor.
  */
 
-/* 
- * File:   Individuo.cpp
- * Author: Manuel
- * 
- * Created on 29 de agosto de 2019, 19:43
- */
+
 
 #include "Individuo.h"
 #include <stdlib.h>
